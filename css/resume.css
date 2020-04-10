@@ -1,0 +1,270 @@
+.hlist li a:visited{
+  color: blue;
+}
+
+.active {
+  font-weight: 1000;
+  }
+
+
+.container{
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+
+
+h1{
+  font-family: 'Oswald';
+  text-align: center;
+  /* display:inline;
+  margin-top: 10px;
+  /* margin-left: 100px; */
+  font-size: 60px;
+  /* margin-right: 100px; */
+  color: #2F5496;
+}
+
+
+.SpecialButton{
+	position: relative;
+	left: 42%;
+	transform: translateX(-50%);
+	font-family: 'Roboto Condensed', sans-serif;
+	padding: 4px 11px 4px 11px;
+	border: 2px solid black;
+	font-weight: normal;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+	background-color: #dadada;
+	cursor: pointer;
+	color: black;
+	text-align:  center;
+
+
+
+}
+
+h2{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
+	font-size:28px;
+	margin-bottom: 0px;
+	margin-left: 30px;
+	margin-top: 0px;
+
+}
+
+.subLists{
+
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-left: 80px;
+	margin-top: -20px;
+	list-style-type: disc;
+	margin-bottom: 25px;
+	margin-right: 300px;
+	font-weight: 200;
+}
+.subLists li{
+	padding-bottom: 5px;
+	font-size: 15px;
+}
+
+
+
+hr {
+	display: block;
+	unicode-bidi: isolate;
+	overflow: hidden;
+	margin-bottom: 0px;
+	border-style: inset;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.marginHr{
+
+	border: 2px solid #808080;
+	margin-bottom: 50px;
+	align-content: center;
+	margin-top: 60px;
+
+}
+.marginHr1{
+
+	border: 2px solid #808080;
+	margin-bottom: 20px;
+	align-content: center;
+	margin-top: 40px;
+
+}
+.Rheading{
+
+	border: 1px solid #808080;
+	margin-bottom: 0px;
+	align-content: center;
+
+}
+
+.entityTitle {
+
+	margin-left: 50px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	margin-right: 400px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 10000;
+	font-size: 18px;
+
+
+}
+
+.dateText {
+	display: inline;
+	text-align: right;
+	float:right;
+	margin-right: 60px;
+	margin-top: -46px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
+}
+
+.resumeSubText{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-left: 70px;
+	font-style: italic;
+	margin-top: 2px;
+	margin-right:300px;
+	font-size: 16px;
+	font-weight: 200;
+
+}
+
+.gpa{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-left: 70px;
+	margin-right:300px;
+	/* margin-bottom: 25px; */
+  margin-top: -11px;
+	font-size: 16px;
+	font-weight: 200;
+
+}
+
+.email{
+	font-family: 'Roboto Condensed', sans-serif;
+	/* margin-left: 70px;
+	margin-right:300px; */
+ text-align: center;
+	margin-bottom: -15px;
+  margin-top: 11px;
+	font-size: 16px;
+	font-weight: 200;
+
+}
+
+
+.place{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-left: 70px;
+	margin-right:300px;
+	margin-bottom: 25px;
+  margin-top: -11px;
+	font-size: 16px;
+	font-weight: 200;
+
+}
+.award{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-left: 70px;
+	margin-right:300px;
+	margin-bottom: 25px;
+  margin-top: -11px;
+	font-size: 16px;
+	font-weight: 200;
+
+}
+.projectSubText {
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-left: 50px;
+	font-style: normal;
+	margin-top: 2px;
+	margin-right: 150px;
+	font-weight: 200;
+	font-size: 16px;
+	margin-bottom: 25px;
+
+}
+
+.entityList {
+	display: inline;
+	list-style-type: none;
+
+
+}
+
+
+.hlist {
+	text-align: center;
+    margin-left: -60px;
+}
+.hlist li{
+	padding-top: 15px;
+	display:inline-block;
+
+}
+
+.hlist li a{
+
+	/* margin-top: 20px; */
+	margin-left:30px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: black;
+	display:inline;
+	/* float:right; */
+
+
+}
+.space{
+	margin-bottom: 25px;
+}
+
+.space1{
+	margin-bottom: 25px;
+}
+.hlist li a:hover {
+  color: #ff0000;
+}
+
+
+#skillsList {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	margin-bottom: 40px;
+
+}
+#skillsList li{
+	display: inline-block;
+	padding: 6px 13px 6px 13px;
+	background-color: #dadada;
+	margin:  5px 13px 5px 13px;
+	border: 1px solid black;
+}
+
+#skillsList1 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	margin-bottom: 40px;
+
+}
+#skillsList1 li{
+	display: inline-block;
+	padding: 6px 13px 6px 13px;
+	background-color: #dadada;
+	margin:  5px 13px 5px 13px;
+	border: 1px solid black;
+}
